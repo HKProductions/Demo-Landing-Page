@@ -1,0 +1,45 @@
+.Swag{
+    width: 100%;
+    background: #F4F4F4;
+}
+
+.Swag, p{
+    text-align: center;
+}
+
+.card{
+    width: 20rem;
+    justify-content: center;
+    margin: 1rem;
+}
+
+.btn{
+    border-radius: 300px;
+}
+
+hr{
+    border-color: #f96332;
+    border-width: 3px;
+}
+
+h2{
+    font-size: 1.8em;
+    font-weight: bold;
+    margin-top: 3px;
+    margin-bottom: 5px;
+}
+
+.btn-pill{
+    padding: 1rem 3rem;
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.img-custom{
+    height: 200px;
+    width: 200px;
+}
+
+.Subscribe{
+    background: #F4F4F4;
+}
